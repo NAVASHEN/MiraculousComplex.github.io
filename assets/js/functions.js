@@ -71,12 +71,12 @@ jQuery(document).ready(function ($) {
     // omitWeeks: true
 
     targetOffset: {
-      day: 20,
+      day: 18,
       month: 0,
       year: 0,
-      hour: 5,
-      min: 3,
-      sec: 20,
+      hour: 20,
+      min: 1,
+      sec: 5,
     },
     omitWeeks: true,
   });
